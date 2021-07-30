@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1412px;
+    margin: 0 auto;
+}
+
+.phone {
+    text-align: right;
+    margin-top: 36px;
+}
+
+.logo-img {
+    margin-right: 268px;
+}
+
+.nav-full {
+    display: flex;
+    align-items: center;
+    margin-top: 24px;
+}
+.nav {
+    width: 720px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu {
+    margin-left: 260px;
+}
+
+.offer {
+    background: url("/img/bg-header.png") no-repeat center top / cover;
+}
+
+.main-off {
+    padding-top: 169px;
+    color: #FFF;
+    text-align: center;
+    width: 889px;
+    margin: 0 auto;
+    
+}
+
+.main-off h1 {
+    font-weight: 400;
+    font-size: 64px;
+    letter-spacing: -0.045em;
+    line-height: 101.68%;
+    margin-bottom: 35px;
+}
+
+
+
+.main-off hr{
+    border: none;
+    width: 123px;
+    background: #FFF;
+    height: 3px;
+    margin-bottom: 35px;
+}
+
+.sec-off {
+    font-size: 30px;
+    line-height: 101.68%;
+    font-style: italic;
+    letter-spacing: -0.045em;
+    padding-bottom: 111px;
+}
+
+.adj {
+    display: flex;
+    justify-content: space-between;
+}
+
+.adj .blackf {
+    letter-spacing: -0.045em;
+    font-size: 28px;
+    color: #2B2B2B;
+}
+
+.adj p {
+    letter-spacing: -0.045em;
+    font-size: 36px;
+}
+
+.four-block {
+    margin-top: 112px;
+    padding-bottom: 135px;
+}
+
+.four-block .blackf{
+    letter-spacing: -0.045em;
+    font-size: 28px;
+    color: #2B2B2B;
+}
+
+.four-block p {
+    letter-spacing: -0.045em;
+    font-size: 36px;
+}
